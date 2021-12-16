@@ -1,0 +1,26 @@
+1a：	character special files and block special files
+
+1b:	Input is called 'stdin'. It's the device from which input to the system is taken.
+	Optput is callen 'stdout'. It's the device to which output from the system is sent.
+
+
+2:
+	/ : Root of the filesystem tree
+	~ : It's current user's home directory
+	. : It's the corrent folder
+	.. : Parent Folder
+
+
+3:	
+	'uwme' is the username
+	'@trl-VirtualBox' is the computer name
+	':' symbol is a simple seperarator
+	'~' sign indiactes that user working in home directory
+	'/summation' is the directory under /src directory
+	'$' represents regular user.
+	
+
+
+4:
+	Rename the file with a '.' at the start of its name to hide it.
+	Using 'Is' command to get it to show as part of a list of directory contents.

@@ -1,0 +1,4 @@
+I thought the Lab was still due on Friday. So I printed a scaled down model to save time.
+I attached the gcode of the original model and scaled down model.
+The picture is the scaled down model.
+The screenshot is the simulation of original model.
